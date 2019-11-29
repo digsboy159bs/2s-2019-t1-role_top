@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
+
+</head>
+
+<body>
+    <header>
+
+        <nav>
+            <div class="section-container">
+
+                <ul>
+                        
+                              
+                                
+                                    <i class="fa fa-bars"></i>
+                                </a>
+                    <li>  home</li:>
+                    <li ><a href="roletop.html#galeria" class="active">galeria</a></li>
+                    <li><a href="roletop.html#contatos" class="active">contatos</a></li>
+                    <li><a href="login.html" class="active">login</a></li>
+                    <li ><a href="cadastro.html" class="active">cadastro</a></li>
+                    <li><a id="bt-peca_ja" href="alugar.html " class="active">Alugue!</a></li>
+                </ul>
+
+            </div>
+        </nav>
+        </div>
+        <main>
+
+        <section id="logo-area">
+
+            <img src="logo role top.png">
+
+        </section>
+    </header>
+
+    <div class="objetivo-background">
+
+        <section id="objetivo">
+            <div class="section-container">
+
+                <br>
+                <h2>Alugue já</h2>
+                <p>Alugue nosso espaço para eventos.
+                </p>
+
+        </section>
+        </div>
+
+        <div class="historia-background">
+
+            <section id="quemsomos">
+                <div class="section-container">
+
+                    <br>
+                    <br>
+                    <h2>quem somos</h2>
+                    <p>somos proprietarios de um belo espaço, para alugar eventos,essa ideia surgiu a partir de 2 homen que tinham um espaço sobrando e nao queriam disperdiçar.
+                    </p>
+
+            </section>
+
+            </div>
+            <section id="galeria">
+                <br>
+                <br>
+
+                <h2 style="text-align:center">galeria</h2>
+                <br>
+                <br>
+            </section>
+            <section id="meio">
+                <div class="container">
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 6</div>
+                        <img src="show2" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 6</div>
+                        <img src="formaturas" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 6</div>
+                        <img src="exposiçoes1" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 6</div>
+                        <img src="casamento" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">5 / 6</div>
+                        <img src="universitarias 2.jfif" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">6 / 6</div>
+                        <img src="aniversarios" height="500px" width="700px">
+                    </div>
+            </section>
+
+            <a class="prev" onclick="plusSlides(-1)">❮</a>
+            <a class="next" onclick="plusSlides(1)">❯</a>
+
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+
+            <div class="row">
+                <div class="column">
+                    <img class="demo cursor" src="show2" height="250px" width="250px" style="width:100%" onclick="currentSlide(1)" alt="shows">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="formaturas" height="250px" width="250px" style="width:100%" onclick="currentSlide(2)" alt="formaturas">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="exposiçoes1" height="250px" width="250px" style="width:100%" onclick="currentSlide(3)" alt="exposiçoes">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="casamento" height="250px" width="250px" style="width:100%" onclick="currentSlide(4)" alt="casamentos">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="universitarias 2.jfif" height="250px" width="250px" style="width:100%" onclick="currentSlide(5)" alt="universitarias">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="aniversarios" style="width:100%" height="250px" width="250px" onclick="currentSlide(6)" alt="aniversarios">
+                </div>
+            </div>
+            </div>
+            <br>
+            <br>
+
+            <script>
+                var slideIndex = 1;
+                showSlides(slideIndex);
+
+                function plusSlides(n) {
+                    showSlides(slideIndex += n);
+                }
+
+                function currentSlide(n) {
+                    showSlides(slideIndex = n);
+                }
+
+                function showSlides(n) {
+                    var i;
+                    var slides = document.getElementsByClassName("mySlides");
+                    var dots = document.getElementsByClassName("demo");
+                    var captionText = document.getElementById("caption");
+                    if (n > slides.length) {
+                        slideIndex = 1
+                    }
+                    if (n < 1) {
+                        slideIndex = slides.length
+                    }
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";
+                    }
+                    for (i = 0; i < dots.length; i++) {
+                        dots[i].className = dots[i].className.replace(" active", "");
+                    }
+                    slides[slideIndex - 1].style.display = "block";
+                    dots[slideIndex - 1].className += " active";
+                    captionText.innerHTML = dots[slideIndex - 1].alt;
+                }
+                
+            </script>
+            </main>
+
+            <section id="local">
+                <div class="section-container">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.8869961505543!2d-46.648477085071065!3d-23.53656648469522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5843deade6e3%3A0x124f377d06c7e71f!2sAlameda+Bar%C3%A3o+de+Limeira%2C+539+-+Campos+El%C3%ADseos%2C+S%C3%A3o+Paulo+-+SP%2C+01202-001!5e0!3m2!1sen!2sbr!4v1550223658410" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+                </div>
+            </section>
+            <footer>
+                <section id="contatos">
+                <div class="section-container">
+                    <address>
+                    Avenida de Limeira, 539 - Campos Elíseos - SP
+                    <br />
+                   roletop@boy.com
+                    <br />
+                    11 1234 6789
+                </address>
+                    <a href="#">Voltar para o topo!</a>
+                </div>
+            </section>
+            </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,144 @@
+﻿ <main>
+
+        <section id="logo-area">
+
+            <img src="../img/logo role top.png">
+
+        </section>
+    </header>
+
+    <div class="objetivo-background">
+
+        <section id="objetivo">
+            <div class="section-container">
+
+                <br>
+                <h2>Alugue já</h2>
+                <p>Alugue nosso espaço para eventos.
+                </p>
+
+        </section>
+        </div>
+
+        <div class="historia-background">
+
+            <section id="quemsomos">
+                <div class="section-container">
+
+                    <br>
+                    <br>
+                    <h2>quem somos</h2>
+                    <p>somos proprietarios de um belo espaço, para alugar eventos,essa ideia surgiu a partir de 2 homen que tinham um espaço sobrando e nao queriam disperdiçar.
+                    </p>
+
+            </section>
+
+            </div>
+            <section id="galeria">
+                <br>
+                <br>
+
+                <h2 style="text-align:center">galeria</h2>
+                <br>
+                <br>
+            </section>
+            <section id="meio">
+                <div class="container">
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 6</div>
+                        <img src="../img/show2.png" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 6</div>
+                        <img src="../img/formaturas.png" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 6</div>
+                        <img src="../img/exposiçoes1.png" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 6</div>
+                        <img src="../img/casamento.png" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">5 / 6</div>
+                        <img src="../img/universitarias 2.png" height="500px" width="700px">
+                    </div>
+
+                    <div class="mySlides">
+                        <div class="numbertext">6 / 6</div>
+                        <img src="../img/aniversarios.png" height="500px" width="700px">
+                    </div>
+            </section>
+
+            <a class="prev" onclick="plusSlides(-1)">❮</a>
+            <a class="next" onclick="plusSlides(1)">❯</a>
+
+            <div class="caption-container">
+                <p id="caption"></p>
+            </div>
+
+            <div class="row">
+                <div class="column">
+                    <img class="demo cursor" src="../img/show2.png" height="250px" width="250px" style="width:100%" onclick="currentSlide(1)" alt="shows">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="../img/formaturas.png" height="250px" width="250px" style="width:100%" onclick="currentSlide(2)" alt="formaturas">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="../img/exposiçoes1.png" height="250px" width="250px" style="width:100%" onclick="currentSlide(3)" alt="exposiçoes">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="../img/casamento.png" height="250px" width="250px" style="width:100%" onclick="currentSlide(4)" alt="casamentos">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="../img/universitarias 2.png" height="250px" width="250px" style="width:100%" onclick="currentSlide(5)" alt="universitarias">
+                </div>
+                <div class="column">
+                    <img class="demo cursor" src="../img/aniversarios.png" style="width:100%" height="250px" width="250px" onclick="currentSlide(6)" alt="aniversarios">
+                </div>
+            </div>
+            </div>
+            <br>
+            <br>
+
+            <script>
+                var slideIndex = 1;
+                showSlides(slideIndex);
+
+                function plusSlides(n) {
+                    showSlides(slideIndex += n);
+                }
+
+                function currentSlide(n) {
+                    showSlides(slideIndex = n);
+                }
+
+                function showSlides(n) {
+                    var i;
+                    var slides = document.getElementsByClassName("mySlides");
+                    var dots = document.getElementsByClassName("demo");
+                    var captionText = document.getElementById("caption");
+                    if (n > slides.length) {
+                        slideIndex = 1
+                    }
+                    if (n < 1) {
+                        slideIndex = slides.length
+                    }
+                    for (i = 0; i < slides.length; i++) {
+                        slides[i].style.display = "none";
+                    }
+                    for (i = 0; i < dots.length; i++) {
+                        dots[i].className = dots[i].className.replace(" active", "");
+                    }
+                    slides[slideIndex - 1].style.display = "block";
+                    dots[slideIndex - 1].className += " active";
+                    captionText.innerHTML = dots[slideIndex - 1].alt;
+                }
+                
+            </script>
+            </main>
