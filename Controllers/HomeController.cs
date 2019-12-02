@@ -8,7 +8,7 @@ using ROLE_TOP.Models;
 
 namespace ROLE_TOP.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : AbstractController
     {
         public IActionResult Index()
         {

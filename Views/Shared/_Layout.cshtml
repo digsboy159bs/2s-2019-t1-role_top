@@ -22,12 +22,12 @@
                               
                                 
                                     
-                                </a>
-                    <li>  home</li>
-                    <li ><a href="roletop.html#galeria" class="active">galeria</a></li>
-                    <li><a href="roletop.html#contatos" class="active">contatos</a></li>
+                                
+                     <li><a asp-controller="Home" asp-action="Index" class="active">home</a></li>
+                    <li ><a href='@Url.Action("Index", "Home")#galeria' class="active">galeria</a></li>
+                    <li><a href='@Url.Action("Index", "Home")#contatos' class="active">contatos</a></li>
                     <li><a href="login.html" class="active">login</a></li>
-                    <li ><a href="cadastro.html" class="active">cadastro</a></li>
+                    <li ><a asp-controller="Cadastro" asp-action="Index" class="active">cadastro</a></li>
                     <li><a id="bt-peca_ja" href="alugar.html " class="active">Alugue!</a></li>
                 </ul>
 

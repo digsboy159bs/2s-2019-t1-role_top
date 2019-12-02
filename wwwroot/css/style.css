@@ -9,7 +9,7 @@
 
 nav {
     background-color: #8B008B;
-    padding: 20px 0;
+    padding: 0px 0;
     position: fixed;
     width: 100%;
     z-index: 999;
@@ -29,6 +29,7 @@ nav ul {
 nav ul > li {
     width: 100%;
     text-align: center;
+    color: #fff;
 }
 
 .logo-background{
@@ -45,6 +46,7 @@ section ul {
 .section-container {
     margin: 0 auto;
     max-width: 1360px;
+    
 }
 
 
@@ -57,7 +59,7 @@ section ul {
 
 
  #galeria {
-     background-color: #8B008B;
+     background-color: #FF4500;
      
      
      justify-content: space-around;
@@ -74,7 +76,7 @@ section ul {
 
 
 footer {
-    background-color: #FF4500;
+    background-color: #8b008B;
     text-align: center;
 }
 
@@ -87,7 +89,7 @@ footer {
 
 #logo-area {
     
-    background-image: url(../img/fundo1.png);
+    background-image: url(../img/images.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -103,7 +105,7 @@ nav ul > li > a {
 	display: block;
 	padding: 0.4em;
     text-decoration: none;
-    color: #8B008B;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -163,7 +165,7 @@ nav ul > li > a {
     display: none;
     justify-content: center;
     align-items: center;
-    background-color: #FFD700;
+    background-color: #8B008B;
    
    
   }
