@@ -5,6 +5,6 @@ namespace ROLE_TOP.ViewModels
 {
     public class HistoricoViewModel : BaseViewModel
     {
-         public List<Alugar> Agendamentos {get;set;}
+         public List<Reserva> Reservas {get;set;}
     }
 }

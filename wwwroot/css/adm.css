@@ -1,0 +1,169 @@
+
+ * {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+
+
+nav {
+    background-color: #8B008B;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    height: 0px;
+    
+  
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5em;
+    list-style-type: none;
+    height: 0px;
+}
+
+nav ul > li {
+    width: 100%;
+    text-align: center;
+}
+
+
+section ul {
+    text-align: center;
+}
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+footer {
+    background-color: #8B008B;
+    text-align: center;
+    margin-top: 45.2%;
+  
+}
+
+
+
+
+
+nav ul > li > a {
+	display: block;
+	padding: 0.4em;
+    text-decoration: none;
+    color: #ffffff;
+        margin: 0;
+        padding: 0;
+        
+    }
+    
+    
+    
+    
+    nav {
+        background-color: #8B008B;
+        padding: 20px 0;
+        position: fixed;
+        width: 100%;
+        z-index: 999;
+      
+    }
+    
+    nav ul {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 1.5em;
+        list-style-type: none;
+    }
+    
+    nav ul > li {
+        width: 100%;
+        text-align: center;
+    }
+    
+    
+    
+    section ul {
+        text-align: center;
+    }
+    
+    
+    
+    
+    
+       
+    
+    
+    
+    
+    
+    
+    
+     
+
+    
+    
+    
+ 
+    
+    nav ul > li > a {
+        display: block;
+        padding: 0.4em;
+        text-decoration: none;
+        color: #ffffff;
+        font-weight: bold;
+    }
+    
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
+    h2{
+        text-align: center;
+        
+    }
+    
+    
+    
+    
+     
+     
+ 
+ 
+

@@ -2976,6 +2976,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Reserva\\Index.cshtml",
+      "TargetPath": "Views\\Reserva\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Shared\\Erro.cshtml",
+      "TargetPath": "Views\\Shared\\Erro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Cliente\\Login.cshtml",
       "TargetPath": "Views\\Cliente\\Login.cshtml",
       "FileKind": "mvc"
@@ -2986,8 +2996,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Shared\\Sucesso.cshtml",
+      "TargetPath": "Views\\Shared\\Sucesso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Cliente\\Historico.cshtml",
+      "TargetPath": "Views\\Cliente\\Historico.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -3001,8 +3021,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\34436810852\\Documents\\exercicios\\ROLE TOP\\Views\\Administrador\\Dashboard.cshtml",
+      "TargetPath": "Views\\Administrador\\Dashboard.cshtml",
       "FileKind": "mvc"
     },
     {

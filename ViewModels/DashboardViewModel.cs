@@ -5,13 +5,13 @@ namespace ROLE_TOP.ViewModels
 {
     public class DashboardViewModel : BaseViewModel
     {
-        public List<Alugar> Agendamentos {get;set;}
-        public uint AgendamentosAprovados {get;set;}
-        public uint AgendamentosReprovados {get;set;}
-        public uint AgendamentosPendentes {get;set;}
+        public List<Reserva> Reservas {get;set;}
+        public uint ReservasAprovados {get;set;}
+        public uint ReservasReprovados {get;set;}
+        public uint ReservasPendentes {get;set;}
         public DashboardViewModel()
         {
-            this.Agendamentos = new List<Alugar>();
+            this.Reservas = new List<Reserva>();
         }
     }
 }

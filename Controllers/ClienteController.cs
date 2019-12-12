@@ -1,3 +1,5 @@
+
+
 using System;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -5,14 +7,12 @@ using ROLE_TOP.Enums;
 using ROLE_TOP.Repositories;
 using ROLE_TOP.ViewModels;
 
-namespace ROLE_TOP.Controllers
-{
-    public class ClienteController: AbstractController
-    {
-        private ClienteRepository clienteRepository = new ClienteRepository ();
-        private PedidoRepository pedidoRepository = new PedidoRepository ();
-        [HttpGet]
-        public IActionResult Login () {
+namespace ROLE_TOP.Controllers {
+        public class ClienteController : AbstractController {
+                private ClienteRepository clienteRepository = new ClienteRepository ();
+                private ReservaRepository reservaRepository = new ReservaRepository ();
+                [HttpGet]
+             public IActionResult Login () {
             return View (new BaseViewModel () {
                 NomeView = "Login",
                     UsuarioEmail = ObterUsuarioSession (),
@@ -65,10 +65,10 @@ namespace ROLE_TOP.Controllers
         }
         public IActionResult Historico () {
             var emailCliente = HttpContext.Session.GetString (SESSION_CLIENTE_EMAIL);
-            var pedidosCliente = pedidoRepository.ObterTodosPorCliente (emailCliente);
+            var reservasCliente = reservaRepository.ObterTodosPorCliente (emailCliente);
 
             return View (new HistoricoViewModel () {
-                Pedidos = pedidosCliente,
+                Reservas = reservasCliente,
                     NomeView = "Historico",
                     UsuarioEmail = ObterUsuarioSession (),
                     UsuarioNome = ObterUsuarioNomeSession ()

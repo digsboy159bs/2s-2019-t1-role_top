@@ -1,38 +1,68 @@
    
+        
+        
+            
+            <br>
+            <br>
+            <br>
+            <br>
+            <h2>Cadastro</h2>
+            <br>
+            <br>
+            <br>
+            <br>
+            <img src="../img/show2.png" height="200px" width="200px" >
+            
         <main>
            
                 <br>
                 <br>
-                <form method="POST" action='@Url.Action("CadastrarCliente", "Cadastro")'>
+                <form method="POST"  action='@Url.Action("Cadastrar", "Cadastro")'>
+                    
                    
-                   
-        
+           
+                    <div>
+                        <label for="nome">nome</label>
+                        <br />
+                        <input id="nome" type="nome" name="nome" />
+                    </div>
+                     
                     <div>
                         <label for="email">E-mail</label>
                         <br />
                         <input id="email" type="email" name="email" />
                     </div>
+                    
+                    
+                    
+                    
                     <div>
-                        <label for="email">confirmar E-mail</label>
+                        <label for="telefone">telefone</label>
                         <br />
-                        <input id="email" type="email" name="email" />
+                        <input id="telefone" type="telefone" name="telefone" />
                     </div>
+                 
                     <div>
                         <label for="password">senha</label>
                         <br />
-                        <input id="password" type="password" maxlength="50" minlength="3" name="nome" />
+                        <input id="password" type="password" maxlength="50" minlength="3" name="senha" />
                     </div>
                     <div>
                         <label for="password">confirmar senha</label>
                         <br />
-                        <input id="password" type="password" maxlength="50" minlength="3" name="nome" />
+                        <input id="password" type="password" maxlength="50" minlength="3" name="confirmar-senha" />
                     </div>
                     <div>
                         <label for="cpf">cpf</label>
                         <br />
-                        <input id="nome" type="text" maxlength="50" minlength="3" name="nome" />
+                        <input id="nome" type="text" maxlength="50" minlength="3" name="cpf" />
                     </div>
-                    <input type="submit" value="entrar"   />
+                    <div>
+                        <label for="cpf">Data de Nascimento</label>
+                        <br />
+                        <input id="data-nascimento" type="date" maxlength="50" minlength="3" name="data-nascimento" />
+                    </div>
+                    <input type="submit" value="Cadastrar"   />
         </form>
         </main>
         

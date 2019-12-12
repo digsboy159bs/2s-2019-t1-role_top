@@ -1,6 +1,6 @@
 namespace ROLE_TOP.Repositories
 {
-    public class ReposiroryBase
+    public class RepositoryBase
     {
          protected string ExtrairValorDoCampo(string nomeCampo, string linha)
         {

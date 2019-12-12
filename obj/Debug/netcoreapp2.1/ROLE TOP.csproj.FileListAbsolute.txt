@@ -1,0 +1,35 @@
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.deps.json
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.dll
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.pdb
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.Views.dll
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\bin\Debug\netcoreapp2.1\ROLE TOP.Views.pdb
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.RazorAssemblyInfo.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.RazorAssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.TagHelpers.input.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.TagHelpers.output.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.RazorCoreGenerate.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Historico.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Reserva\Index.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Erro.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.RazorTargetAssemblyInfo.cache
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.RazorTargetAssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.Views.pdb
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.dll
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.pdb
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.1\ROLE TOP.csproj.CopyComplete

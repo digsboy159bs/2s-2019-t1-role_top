@@ -1,0 +1,61 @@
+ @model  ROLE_TOP.ViewModels.ReservaViewModel
+  <br>
+  <br>
+  <br>
+  <br>
+                      <br>
+                      <h2>alugue nosso espaço</h2>
+                      <br>
+                      <br>
+                      <br>
+                      <br>
+                      
+ <main>
+                   
+                        <br>
+                        <br>
+                        <form method="POST" action='@Url.Action("Registrar","Reserva")'>
+                            <div>
+                                <label for="nome">Nome Completo</label>
+                                <br />
+                                <input id="nome" type="text" maxlength="50" minlength="3" name="nome" />
+                            </div>
+                
+                           
+                            <div>
+                                <label for="telefone">Telefone para contato</label>
+                                <br />
+                                <input id="telefone" type="text" name="telefone" />
+                            </div>
+                
+                            <div>
+                                <label for="email">E-mail</label>
+                                <br />
+                                <input id="email" type="email" name="email" />
+                            </div>
+
+                                 
+                            <div>
+                                    <label for="data">Data pretendida</label>
+                                    <br />
+                                   
+                                    <input id="data" type="date" name="data" />
+                                </div>
+                
+                            <div class="double-field">
+                                 <div>
+                    <label for="evento">Evento</label>
+                    <select id="evento"name ="evento" required>
+                        <option value="" disabled selected>Selecione</option>
+                      @foreach (var evento in Model.Eventos)
+                      {
+                        <option value=@evento.Nome>@evento.Nome por @evento.Preco
+                            
+                        </option>
+                      }
+                               
+                            </div>
+                               <input type="submit" value="Enviar solicitação"    />
+                        </form>
+                
+                    </main>

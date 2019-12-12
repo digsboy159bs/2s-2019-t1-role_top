@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #ffcc00;
+    text-align: center;
+    height: 300px;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+h2 {
+    /* Manter, se quiser o h2 no hgroup: */
+    /* padding: 30px 0; */
+    padding: 0 0 20px 0;
+    color: #8B008B;
+    text-shadow: 
+    -1px -1px 0 #FF4500,
+    1px -1px 0 #FF4500,
+   -1px  1px 0 #FF4500,
+    1px  1px 0 #FF4500;
+    margin-top: 0%;
+}

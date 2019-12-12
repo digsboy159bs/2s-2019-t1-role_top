@@ -1,0 +1,371 @@
+<!DOCTYPE html><html lang="pt-br" prefix="og: http://ogp.me/ns#"><head>
+<meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1"><meta name = "viewport" content = "width = device-width,initial-scale = 1.0,maximum-scale = 1.0"/><meta name="theme-color" content="#003399"><meta name="robots" content="index,follow"><meta charset="utf-8" /><meta name="keywords" content="shows, festivais, lollapalooza, agenda shows, show em sao paulo,  teatro sao paulo, show sp, teatro sp, teatro sao paulo, entretenimento sao paulo, teatro, show, shows, eventos, musicais, espetaculo infantil, show em sp,gastronomicos, gastronomia" /><link rel="dns-prefetch" href="//www.google-analytics.com"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//fonts.gstatic.com"><link rel="dns-prefetch" href="//www.googletagmanager.com">
+<meta name="Description" content="Agenda de Shows em São Paulo, Programação Shows SP, Shows em São Paulo, Show em SP." /><meta name="google-site-verification" content="TVS6n11Y2INENi_ghQquXwX2k4bjloycLSc1h3Q_xWc"/><meta name="google-site-verification" content="YD4AT6iHJIQEKJwUYLJwDIEm7Rtdw1AWlwf0JdYrBZI" /><meta name="google-site-verification" content="4OnzCAYI2NzQN4sOywaooB96AlwsojSkKNMt-VE4MnI" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/><meta name="distribution" content="global" /><title>Shows SP - Agenda de Shows em São Paulo - BaresSP</title><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@baressp"><meta property="og:title" content="Shows SP - Agenda de Shows em São Paulo - BaresSP" /><meta name="twitter:title" content="Shows SP - Agenda de Shows em São Paulo - BaresSP" /><meta property="og:image" content="https://www.baressp.com.br/images/logo2010_bsp.gif" /><meta name="twitter:image" content="https://www.baressp.com.br/images/logo2010_bsp.gif" /><meta property="og:url" content="https://www.baressp.com.br/shows-sp" /><meta name="twitter:url" content="https://www.baressp.com.br/shows-sp" /><meta property="og:description" content="Agenda de Shows em São Paulo, Programação Shows SP, Shows em São Paulo, Show em SP." /><meta name="twitter:description" content="Agenda de Shows em São Paulo, Programação Shows SP, Shows em São Paulo, Show em SP."/><meta property="og:type" content="website" /><meta property="og:site_name" content="BaresSP" /><link rel="publisher" href="https://plus.google.com/115683532952199815100" /><link rel="dns-prefetch" href="baressp.com.br" /><meta property="scoop" content="https://www.baressp.com.br" />
+<style>#BoxNoticia li{display:none;}</style>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="/site_novo19/css/estrutura.css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="/site_novo19/js/funcoes.js"></script><script>var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-11141216-1']);_gaq.push(['_trackPageview']);(function(){ var ga = document.createElement('script');ga.type = 'text/javascript';ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'https://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','623657887975598');fbq('track','PageView');</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=623657887975598&ev=PageView&noscript=1" alt="facebook tag" title="facebooktag"/></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PR8W6N');</script><link rel="stylesheet" type="text/css" href="/site_novo19/slick/slick.css"><link rel="stylesheet" type="text/css" href="/site_novo19/slick/slick-theme.css"><script src="/site_novo19/slick/slick.min.js"></script>
+<header>
+    	<div id="headerBase">
+    	<div id="MenuIco" onClick="$('#navMobBase').animate({'width':'toggle'});"><i class="fas fa-bars fontSize28 colorBlue"></i></div><div id="Logo"><a href="/"><img src="/site_novo19/images/baressp.svg" alt="BaresSP" title="BaresSP" /></a></div>&nbsp;
+        <nav class="flexRow fontBaseEsp2 fontSize16 w600">&nbsp;</nav>
+        <div id="BuscaIco" onClick="$('.formBuscaTop').slideToggle();"><i class="fas fa-search fontSize20"></i></div>
+<form id="busca" name="busca" method="get" autocomplete="off" action="/bares/pesquisa/" onSubmit="return Consultar(this);" class="formBuscaTop">
+<div class="BuscarBt cursorPointer" onclick="$('#busca').submit();"><i class="fas fa-search colorBlue fontSize28"></i></div><div class="BuscaClose cursorPointer" onClick="$('.formBuscaTop').slideToggle();"><i class="far fa-times-circle colorRed fontSize32"></i></div><input name="PALAVRA" type="text" class="fontSize22 fontBaseEsp colorMdGray" id="PALAVRA" placeholder="Buscar por" onkeyup="AutoCompletar('.autocompletar',this.value);" maxlength="160"/><ul class="autocompletar fontBaseEsp2 fontize14"></ul>
+</form>
+        </div>
+</header>
+<div id="navMobBase">
+<div class="navMobClose colorWhite fontSize25" onClick="$('#navMobBase').animate({'width':'toggle'});"><i class="fas fa-times"></i></div>
+	<ul id="navMobBaseItem">
+    	<li class="NavCadBt colorWhite fontBaseEsp2 fontSize20 font300"><a href="/cadastro">Cadastre-se</a></li>
+    	<li class="txtCenter colorBlue NavSiga flexRow flexJustifyCenter alignItemCenter">
+<p class="fontBaseEsp2 fontSize20 font300 colorMdGray" style="margin-bottom:-2px;">Siga-nos</p>&nbsp;&nbsp;
+<a href="https://www.facebook.com/pages/Guia-BaresSP/110252532339103" target="_blank"><i class="fab fa-facebook fontSize32"></i></a>&nbsp;&nbsp;<a href="https://plus.google.com/115683532952199815100/posts" target="_blank"><i class="fab fa-google-plus fontSize32"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/BaresSP" target="_blank"><i class="fab fa-twitter fontSize32"></i></a>
+        </li>
+        <li class="NavMobElem fontBaseEsp2 fontSize16"><div id="BaresMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Bares</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div>	<div class="SubMenuBase">
+<ul class="SubMenuEstilo flexColumn w350 he200 FlexWrap fontSize14">
+<li class="marginBottom10" onClick="CloseSubMn('#BaresMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/bares"><strong>Bares</strong></a></li>
+<li class="SubMenuItem"><a href="/bares/busca-avancada">Busca</a></li>
+<li class="SubMenuItem"><a href="/bares/bar">Bar</a></li><li class="SubMenuItem"><a href="/bares/bar-em-hotel">Bar em Hotel</a></li><li class="SubMenuItem"><a href="/bares/boteco">Boteco</a></li><li class="SubMenuItem"><a href="/bares/cachacaria">Cachaçaria</a></li><li class="SubMenuItem"><a href="/bares/choperia">Choperia</a></li><li class="SubMenuItem"><a href="/bares/espetinho">Espetinho</a></li><li class="SubMenuItem"><a href="/bares/gls">GLS</a></li><li class="SubMenuItem"><a href="/bares/jogos">Jogos</a></li><li class="SubMenuItem"><a href="/bares/karaoke">Karaokê</a></li><li class="SubMenuItem"><a href="/bares/musica-ao-vivo">Música ao Vivo</a></li><li class="SubMenuItem"><a href="/bares/pubs">Pubs</a></li></ul>
+	</div>
+          </div>
+	 <div id="BaladasMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Baladas</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo flexColumn w500 he200 FlexWrap fontSize14">
+<li class="marginBottom10" onClick="CloseSubMn('#BaladasMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/baladas"><strong>Baladas</strong></a></li>
+<li class="SubMenuItem"><a href="/bares/busca-avancada">Busca</a></li>
+<li class="SubMenuItem"><a href="/baladas/alternativa">Alternativa</a></li><li class="SubMenuItem"><a href="/baladas/black-hiphop-rap">Black / HipHop / Rap</a></li><li class="SubMenuItem"><a href="/baladas/flash-back-disco">Flash Back / Disco</a></li><li class="SubMenuItem"><a href="/baladas/gls">GLS</a></li><li class="SubMenuItem"><a href="/baladas/liberal">Liberal</a></li><li class="SubMenuItem"><a href="/baladas/musica-eletronica">Música Eletrônica</a></li><li class="SubMenuItem"><a href="/baladas/pop-rock-rock">Pop Rock / Rock</a></li><li class="SubMenuItem"><a href="/baladas/ritmos-latinos">Ritmos Latinos</a></li><li class="SubMenuItem"><a href="/baladas/samba">Samba</a></li><li class="SubMenuItem"><a href="/baladas/samba-rock-soul-groove">Samba Rock / Soul / Groove</a></li><li class="SubMenuItem"><a href="/baladas/sertaneja-country">Sertaneja / Country</a></li></ul>
+</div>   
+     </div>
+            <div id="AgendaMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Agenda</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo fontSize14">
+<li class="marginBottom10" onClick="CloseSubMn('#AgendaMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/agenda-de-eventos"><strong>Agenda</strong></a></li>
+<li class="SubMenuItem"><a href="/agenda-de-eventos/pesquisa">Busca Avan&ccedil;ada</a></li>
+<li class="SubMenuItem"><a href="/agenda-de-eventos/11-12-2019">Festas de Hoje</a></li>
+<li class="SubMenuItem marginBottom10"><a href="/shows">Agenda de Shows</a></li>
+</ul>
+</div>               
+            </div>
+            <div id="ShowsMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Shows</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo">
+<li class="marginBottom10" onClick="CloseSubMn('#ShowsMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/shows-sp"><strong>Shows</strong></a></li>
+<li class="SubMenuItem"><a href="/shows/casas-de-show">Casas de Show</a></li><li class="SubMenuItem"><a href="/shows/shows-internacionais-em-sao-paulo">Shows Internacionais</a></li><li class="SubMenuItem"><a href="/shows/shows-nacionais-em-sao-paulo">Shows Nacionais</a></li><li class="SubMenuItem"><a href="/shows/fotos">Fotos</a></li><li class="SubMenuItem"><a href="/noticias/shows">&Uacute;ltimas Not&iacute;cias</a></li><li class="SubMenuItem marginBottom10"><a href="/shows/divulgue">Divulgue seu Show</a></li>
+</ul>
+</div> 
+            </div>
+            <div id="RetaurantesMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Restaurantes</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo flexColumn w700 he600 FlexWrap fontSize14">
+<li class="marginBottom10" onClick="CloseSubMn('#RetaurantesMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/restaurantes"><strong>Restaurantes</strong></a></li>
+<li class="SubMenuItem"><a href="/restaurantes/alemaes">Alemães</a></li><li class="SubMenuItem"><a href="/restaurantes/americanos">Americanos</a></li><li class="SubMenuItem"><a href="/restaurantes/argentinos">Argentinos</a></li><li class="SubMenuItem"><a href="/restaurantes/asiaticos">Asiáticos</a></li><li class="SubMenuItem"><a href="/restaurantes/arabes">Árabes</a></li><li class="SubMenuItem"><a href="/restaurantes/brasileiros">Brasileiros</a></li><li class="SubMenuItem"><a href="/restaurantes/cafes">Cafés</a></li><li class="SubMenuItem"><a href="/restaurantes/chilenos">Chilenos</a></li><li class="SubMenuItem"><a href="/restaurantes/chineses">Chineses</a></li><li class="SubMenuItem"><a href="/restaurantes/churrascarias">Churrascarias</a></li><li class="SubMenuItem"><a href="/restaurantes/coreanos">Coreanos</a></li><li class="SubMenuItem"><a href="/restaurantes/cozinha-contemporanea">Cozinha Contemporânea</a></li><li class="SubMenuItem"><a href="/restaurantes/cozinha-de-carnes">Cozinha de Carnes</a></li><li class="SubMenuItem"><a href="/restaurantes/cozinha-mediterranea">Cozinha Mediterrânea</a></li><li class="SubMenuItem"><a href="/restaurantes/cozinha-variada">Cozinha Variada</a></li><li class="SubMenuItem"><a href="/delivery">Delivery</a></li><li class="SubMenuItem"><a href="/restaurantes/docerias">Docerias</a></li><li class="SubMenuItem"><a href="/restaurantes/enotecas">Enotecas</a></li><li class="SubMenuItem"><a href="/restaurantes/escandinavos">Escandinavos</a></li><li class="SubMenuItem"><a href="/restaurantes/espanhois">Espanhóis</a></li><li class="SubMenuItem"><a href="/restaurantes/europeus">Europeus</a></li><li class="SubMenuItem"><a href="/restaurantes/fast-food">Fast Food</a></li><li class="SubMenuItem"><a href="/restaurantes/franceses">Franceses</a></li><li class="SubMenuItem"><a href="/restaurantes/gregos">Gregos</a></li><li class="SubMenuItem"><a href="/restaurantes/hamburguerias">Hamburguerias</a></li><li class="SubMenuItem"><a href="/restaurantes/indianos">Indianos</a></li><li class="SubMenuItem"><a href="/restaurantes/internacionais">Internacionais</a></li><li class="SubMenuItem"><a href="/restaurantes/italianos">Italianos</a></li><li class="SubMenuItem"><a href="/restaurantes/japoneses">Japoneses</a></li><li class="SubMenuItem"><a href="/restaurantes/judaicos">Judaicos</a></li><li class="SubMenuItem"><a href="/restaurantes/lanchonetes">Lanchonetes</a></li><li class="SubMenuItem"><a href="/restaurantes/marroquinos">Marroquinos</a></li><li class="SubMenuItem"><a href="/restaurantes/mexicanos">Mexicanos</a></li><li class="SubMenuItem"><a href="/restaurantes/naturais">Naturais</a></li><li class="SubMenuItem"><a href="/restaurantes/padarias">Padarias</a></li><li class="SubMenuItem"><a href="/restaurantes/pastelarias">Pastelarias</a></li><li class="SubMenuItem"><a href="/restaurantes/peixes-e-frutos-do-mar">Peixes e Frutos do Mar</a></li><li class="SubMenuItem"><a href="/restaurantes/peruanos">Peruanos</a></li><li class="SubMenuItem"><a href="/restaurantes/pizzarias">Pizzarias</a></li><li class="SubMenuItem"><a href="/restaurantes/portugueses">Portugueses</a></li><li class="SubMenuItem"><a href="/restaurantes/servios">Sérvios</a></li><li class="SubMenuItem"><a href="/restaurantes/sorveterias">Sorveterias</a></li><li class="SubMenuItem"><a href="/restaurantes/suicos">Suíços</a></li><li class="SubMenuItem"><a href="/restaurantes/tailandeses">Tailandêses</a></li><li class="SubMenuItem"><a href="/restaurantes/vegano-vegetariano">Vegano/Vegetariano</a></li></ul>
+</div>   
+            </div>
+            <div id="EspecialMn" class="MenuItem cursorPointer"><a href="Javascript:;" onclick="OpenMn(this);">Especiais</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo">
+<li class="marginBottom10" onClick="CloseSubMn('#EspecialMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/especial"><strong>Especiais</strong></a></li>
+<li class="SubMenuItem"><a href="/taco-tuesday">Taco Tuesday</a></li><li class="SubMenuItem"><a href="/lollapalooza">Lollapalooza</a></li><li class="SubMenuItem"><a href="/rota-do-rock">Rota do Rock</a></li><li class="SubMenuItem"><a href="/cervejas-artesanais">Cervejas Artesanais</a></li><li class="SubMenuItem"><a href="/festa-de-final-de-ano-festa-da-firma-em-sao-paulo">Festa de Final de Ano</a></li><li class="SubMenuItem"><a href="/balada-de-reveillon">Balada de Réveillon</a></li><li class="SubMenuItem"><a href="/balada-de-natal">Balada de Natal</a></li><!--li style="height:20px;overflow:hidden;">&nbsp;</li>
+<li class="txtCenter fontSize14"><a href=""><strong>Veja mais Especiais</strong></a></li-->
+<li style="height:10px;overflow:hidden;">&nbsp;</li>
+</ul>
+</div> 
+            </div>
+            <div id="ServicosMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Serviços</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div><div class="SubMenuBase">
+<ul class="SubMenuEstilo">
+<li class="marginBottom10" onClick="CloseSubMn('#ServicosMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+<li class="SubMenuTitle"><a href="/fornecedores-para-bares-e-restaurantes"><strong>Serviços</strong></a></li>
+<li class="SubMenuItem"><a href="/bartender" target="_blank">Bartenders</a></li><li class="SubMenuItem"><a href="/baristas" target="_blank">Barista</a></li>
+<li class="SubMenuItem"><a href="/curriculo">Curriculos</a></li><li class="SubMenuItem"><a href="/fornecedores">Fornecedores</a></li><li class="SubMenuItem marginBottom10"><a href="/fornecedores/divulgue">Divulgue sua empresa</a></li>
+</ul>
+</div> 
+		   </div>
+<div id="CursosMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Cursos</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div>	<div class="SubMenuBase">
+    <ul class="SubMenuEstilo">
+        <li class="marginBottom10" onClick="CloseSubMn('#CursosMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+    <li class="SubMenuTitle"><a href="/cursos"><strong>Cursos</strong></a></li>
+         <li class="SubMenuItem"><a href="/curso-bartender-curso-barman">Curso Bartender</a></li><li class="SubMenuItem"><a href="/curso-barista-curso-cafe">Curso Barista</a></li>
+     <li class="SubMenuItem"><a href="/curso-garcom">Curso Garçom</a></li><li class="SubMenuItem"><a href="/curso-cerveja">Curso Cerveja</a></li>
+     <li class="SubMenuItem"><a href="/cursos/curso-de-gestao-para-bares-e-restaurantes-basico">Curso Gestão</a></li>
+    </ul>
+    </div> 
+	 
+</div>
+<div id="NiverMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Aniversário</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div>        <div class="SubMenuBase">
+        <ul class="SubMenuEstilo">
+                <li class="marginBottom10" onClick="CloseSubMn('#NiverMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+        <li class="SubMenuTitle"><a href="/aniversarios"><strong>Aniversário</strong></a></li>
+                <li class="SubMenuItem"><a href="/aniversarios/consultoria">Consultoria</a></li>
+        <li class="SubMenuItem"><a href="/aniversarios/busca-avancada">Busca Avançada</a></li>
+        <li class="SubMenuItem marginBottom10"><a href="/aniversarios/roteiro">Roteiro</a></li>
+        </ul>
+        </div>
+</div>
+<div id="FotosMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Fotos</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div>  	 	<div class="SubMenuBase">
+        <ul class="SubMenuEstilo">
+                <li class="marginBottom10" onClick="CloseSubMn('#FotosMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+        <li class="SubMenuTitle"><a href="/fotos"><strong>Fotos</strong></a></li>
+                <li class="SubMenuItem"><a href="/fotos/">&Uacute;ltimas coberturas</a></li><li class="SubMenuItem"><a href="/fotos/contrate">Contrate</a></li><li class="SubMenuItem"><a href="/institucional/trabalhe-no-baressp">Seja um Fot&oacute;grafo</a></li>
+        </ul>
+        </div>
+</div>
+<div id="ReceitasMn" class="MenuItem"><a href="Javascript:;" onclick="OpenMn(this);">Receitas</a><div class="cursorPointer" onclick="OpenMn(this);"><i class="fas fa-angle-right"></i></div>		<div class="SubMenuBase">
+        <ul class="SubMenuEstilo">
+                <li class="marginBottom10" onClick="CloseSubMn('#ReceitasMn .SubMenuBase');"><i class="fas fa-angle-left"></i>&nbsp;Retornar</li>
+        <li class="SubMenuTitle"><a href="/receitas"><strong>Receitas</strong></a></li>
+                <li class="SubMenuItem"><a href="/receitas/busca">Busca de Receitas</a></li><li class="SubMenuItem"><a href="/receitas/bartenders">Drinks e Coquet&eacute;is</a></li><li class="SubMenuItem"><a href="/receitas/barista">Caf&eacute;</a></li><li class="SubMenuItem"><a href="/receitas/bartenders/sem-alcool">Coquet&eacute;is sem &Aacute;lcool</a></li><li class="SubMenuItem"><a href="/receitas/gastronomia">Comidas</a></li><li class="SubMenuItem"><a href="/cursos">Aprenda a fazer</a></li>
+        </ul>
+        </div>
+</div>
+<div style="height:300px;">&nbsp;</div>
+</li>
+    </ul>
+</div><div id="main"><div class="w1000 marginAuto bgWhite">
+<div id="container"><h1 class="fontBaseEsp2 fontSize25 colorBlue txtCenter font400"><img src="/site_novo19/images/empty-min.png" width="1" height="1" alt="Shows SP" title="Shows SP" /><i class="fas fa-theater-masks fontSize25"></i> Shows SP</h1>
+<div class="Divcontent">&nbsp;</div>
+<p class="fontBaseEsp fontSize16">Confira a agenda de <strong>Shows em São Paulo</strong>, com as melhores atrações nacionais e internacionais. São Paulo é roteiro certo dos <strong>melhores Shows Internacionais</strong>. Com as melhores casas de shows do Brasil, São Paulo sempre é o primeiro a receber os <strong>melhores Shows Nacionais</strong> também, seja para novas turnês, lançamentos de CDs, DVDs, músicas e festivais musicais temáticos. A <strong>Programação de Show em São Paulo</strong> é totalmente eclética, com várias opções de Samba, Rock, Heavy Metal, MPB, Pop, Funck, Eletrônico, Sertanejo, Axé, entre outros.<br><br></p>
+<h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Shows Nacionais em São Paulo</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">12 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/ze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja"><img class="BoxImgElm" src="/eventos/fotos2/ze-neto-e-cristiano-arena-sertaneja-baressp.jpg" alt="Zé Neto & Cristiano marcam presença com show na Arena Sertaneja" title="Zé Neto & Cristiano marcam presença com show na Arena Sertaneja"></a>
+	  </div><a href="/shows/ze-neto-e-cristiano-marcam-presenca-com-show-na-arena-sertaneja"><h3 class="colorBlue fontBaseEsp2 fontSize16">Zé Neto & Cristiano marcam presença com show na Arena Sertaneja</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">12 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/jorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country"><img class="BoxImgElm" src="/eventos/fotos2/jorge-e-mateus-jefferson-moraes-villa-country-baressp-min.jpg" alt="Jorge & Mateus e Jefferson Moraes realizam show no Villa Country" title="Jorge & Mateus e Jefferson Moraes realizam show no Villa Country"></a>
+	  </div><a href="/shows/jorge-e-mateus-e-jefferson-moraes-realizam-show-no-villa-country"><h3 class="colorBlue fontBaseEsp2 fontSize16">Jorge & Mateus e Jefferson Moraes realizam show no Villa Country</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">13 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-retornam-com-turne-ao-credicard-hall" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-retornam-com-turne-ao-credicard-hall" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-retornam-com-turne-ao-credicard-hall" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fjorge-e-mateus-retornam-com-turne-ao-credicard-hall" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/jorge-e-mateus-retornam-com-turne-ao-credicard-hall"><img class="BoxImgElm" src="/eventos/fotos2/terra-sem-cep-ao-vivo.jpg" alt="Jorge & Mateus retornam com turnê ao Credicard Hall" title="Jorge & Mateus retornam com turnê ao Credicard Hall"></a>
+	  </div><a href="/shows/jorge-e-mateus-retornam-com-turne-ao-credicard-hall"><h3 class="colorBlue fontBaseEsp2 fontSize16">Jorge & Mateus retornam com turnê ao Credicard Hall</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/shows/shows-nacionais-em-sao-paulo">+Shows</a></div></div><div>&nbsp;</div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Shows Internacionais em São Paulo</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">15 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Figgy-azalea-realiza-show-unico-no-espaco-das-americas" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Figgy-azalea-realiza-show-unico-no-espaco-das-americas" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Figgy-azalea-realiza-show-unico-no-espaco-das-americas" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Figgy-azalea-realiza-show-unico-no-espaco-das-americas" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/iggy-azalea-realiza-show-unico-no-espaco-das-americas"><img class="BoxImgElm" src="/eventos/fotos2/iggy-azalea-espaco-das-americas-baressp-min.jpg" alt="Iggy Azalea realiza show único no Espaço das Américas" title="Iggy Azalea realiza show único no Espaço das Américas"></a>
+	  </div><a href="/shows/iggy-azalea-realiza-show-unico-no-espaco-das-americas"><h3 class="colorBlue fontBaseEsp2 fontSize16">Iggy Azalea realiza show único no Espaço das Américas</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">19 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Ftimothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Ftimothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Ftimothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Ftimothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/timothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi"><img class="BoxImgElm" src="/eventos/fotos2/thimotybloom-min.jpg" alt="Timothy Bloom se apresenta no Jazz nos Fundos ao lado de Nathi" title="Timothy Bloom se apresenta no Jazz nos Fundos ao lado de Nathi"></a>
+	  </div><a href="/shows/timothy-bloom-se-apresenta-no-jazz-nos-fundos-ao-lado-de-nathi"><h3 class="colorBlue fontBaseEsp2 fontSize16">Timothy Bloom se apresenta no Jazz nos Fundos ao lado de Nathi</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">18 | FEV | 20</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fastro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fastro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fastro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fastro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/astro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour"><img class="BoxImgElm" src="/eventos/fotos2/erosramazzoti-min.jpg" alt="Astro italiano Eros Ramazzotti retorna a São Paulo com sua nova turnê Vita Ce NÈ World Tour" title="Astro italiano Eros Ramazzotti retorna a São Paulo com sua nova turnê Vita Ce NÈ World Tour"></a>
+	  </div><a href="/shows/astro-italiano-eros-ramazzotti-retorna-a-sao-paulo-com-sua-nova-turne-vita-ce-ne-world-tour"><h3 class="colorBlue fontBaseEsp2 fontSize16">Astro italiano Eros Ramazzotti retorna a São Paulo com sua nova turnê Vita Ce N'È World Tour</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/shows/shows-internacionais-em-sao-paulo">+Shows</a></div></div><div>&nbsp;</div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Festival musical em São Paulo</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">15 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fpitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fpitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fpitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fpitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/pitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm"><img class="BoxImgElm" src="/eventos/fotos2/34-anos-89fm-audio-baressp.jpg" alt="Pitty e Ego Kill Talent tocam no aniversário da 89FM" title="Pitty e Ego Kill Talent tocam no aniversário da 89FM"></a>
+	  </div><a href="/shows/pitty-e-ego-kill-talent-tocam-no-aniversario-da-89fm"><h3 class="colorBlue fontBaseEsp2 fontSize16">Pitty e Ego Kill Talent tocam no aniversário da 89FM</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">08 | FEV | 20</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Fsomos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Fsomos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Fsomos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Fsomos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/somos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais"><img class="BoxImgElm" src="/eventos/fotos2/somos-rock-festival-estadio-do-caninde-baressp-min.jpg" alt="Somos Rock Festival reúne Capital Inicial, CPM22, Raimundos e mais" title="Somos Rock Festival reúne Capital Inicial, CPM22, Raimundos e mais"></a>
+	  </div><a href="/shows/somos-rock-festival-reune-capital-inicial-cpm22-raimundos-e-mais"><h3 class="colorBlue fontBaseEsp2 fontSize16">Somos Rock Festival reúne Capital Inicial, CPM22, Raimundos e mais</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">03 | ABR | 20</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Flollapalooza-garante-nova-edicao-no-autodromo-de-interlagos" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Flollapalooza-garante-nova-edicao-no-autodromo-de-interlagos" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Flollapalooza-garante-nova-edicao-no-autodromo-de-interlagos" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Flollapalooza-garante-nova-edicao-no-autodromo-de-interlagos" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/lollapalooza-garante-nova-edicao-no-autodromo-de-interlagos"><img class="BoxImgElm" src="/admin/br3_especiais/imagens/lollapalooza-2020-baressp-min.jpg" alt="Lollapalooza garante nova edição no Autódromo de Interlagos" title="Lollapalooza garante nova edição no Autódromo de Interlagos"></a>
+	  </div><a href="/shows/lollapalooza-garante-nova-edicao-no-autodromo-de-interlagos"><h3 class="colorBlue fontBaseEsp2 fontSize16">Lollapalooza garante nova edição no Autódromo de Interlagos</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/festivais-musicais-em-sao-paulo">+ Festival</a></div></div><div>&nbsp;</div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Eventos com M&uacute;sica ao Vivo</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">11 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Feventos%2Fdublin-inicia-o-circuito-erdinger-com-a-banda-holofotes" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Feventos%2Fdublin-inicia-o-circuito-erdinger-com-a-banda-holofotes" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Feventos%2Fdublin-inicia-o-circuito-erdinger-com-a-banda-holofotes" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Feventos%2Fdublin-inicia-o-circuito-erdinger-com-a-banda-holofotes" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/eventos/dublin-inicia-o-circuito-erdinger-com-a-banda-holofotes"><img class="BoxImgElm" src="/eventos/fotos2/dublin-kiss-baressp.jpg" alt="Dublin inicia o Circuito Erdinger com a banda Holofotes" title="Dublin inicia o Circuito Erdinger com a banda Holofotes"></a>
+	  </div><a href="/eventos/dublin-inicia-o-circuito-erdinger-com-a-banda-holofotes"><h3 class="colorBlue fontBaseEsp2 fontSize16">Dublin inicia o Circuito Erdinger com a banda Holofotes</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">11 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Feventos%2Fbanda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Feventos%2Fbanda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Feventos%2Fbanda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Feventos%2Fbanda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/eventos/banda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses"><img class="BoxImgElm" src="/eventos/fotos2/banda-ilusion-willi-willie-baressp-min.jpg" alt="Banda Illusion realiza show no Willi Willie com os clássicos do Guns N Roses" title="Banda Illusion realiza show no Willi Willie com os clássicos do Guns N Roses"></a>
+	  </div><a href="/eventos/banda-illusion-realiza-show-no-willi-willie-com-os-classicos-do-guns-n-roses"><h3 class="colorBlue fontBaseEsp2 fontSize16">Banda Illusion realiza show no Willi Willie com os clássicos do Guns N' Roses</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">11 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fshows%2Frepublic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fshows%2Frepublic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fshows%2Frepublic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fshows%2Frepublic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/shows/republic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-"><img class="BoxImgElm" src="/eventos/fotos2/QUARTAS-2-min_261120191327.jpg" alt="Republic Pub será sacudido por Torcidas de Futebol e muita Cerveja " title="Republic Pub será sacudido por Torcidas de Futebol e muita Cerveja "></a>
+	  </div><a href="/shows/republic-pub-sera-sacudido-por-torcidas-de-futebol-e-muita-cerveja-"><h3 class="colorBlue fontBaseEsp2 fontSize16">Republic Pub será sacudido por Torcidas de Futebol e muita Cerveja </h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/agenda-de-eventos/11-12-2019">+ Eventos de Hoje</a></div></div><div>&nbsp;</div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Casas de Shows em São Paulo</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">31 | DEZ | 69</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fcasas-de-show%2Fcafe-de-la-musique-campos-do-jordao" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Fcafe-de-la-musique-campos-do-jordao" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Fcafe-de-la-musique-campos-do-jordao" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fcasas-de-show%2Fcafe-de-la-musique-campos-do-jordao" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/casas-de-show/cafe-de-la-musique-campos-do-jordao"><img class="BoxImgElm" src="/bares/fotos2/foto-min_200520191216.jpg" alt="Casa de shows e grandes eventos em Campos do Jordão" title="Casa de shows e grandes eventos em Campos do Jordão"></a>
+	  </div><a href="/casas-de-show/cafe-de-la-musique-campos-do-jordao"><h3 class="colorBlue fontBaseEsp2 fontSize16">Casa de shows e grandes eventos em Campos do Jordão</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">31 | DEZ | 69</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fcasas-de-show%2Ftom-brasil-hsbc-brasil-" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Ftom-brasil-hsbc-brasil-" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Ftom-brasil-hsbc-brasil-" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fcasas-de-show%2Ftom-brasil-hsbc-brasil-" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/casas-de-show/tom-brasil-hsbc-brasil-"><img class="BoxImgElm" src="/bares/fotos/tombrasil01.jpg" alt="Tom Brasil oferece padrão de excelência no setor do meio cultural" title="Tom Brasil oferece padrão de excelência no setor do meio cultural"></a>
+	  </div><a href="/casas-de-show/tom-brasil-hsbc-brasil-"><h3 class="colorBlue fontBaseEsp2 fontSize16">Tom Brasil oferece padrão de excelência no setor do meio cultural</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">31 | DEZ | 69</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fcasas-de-show%2Fespaco-das-americas" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Fespaco-das-americas" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fcasas-de-show%2Fespaco-das-americas" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fcasas-de-show%2Fespaco-das-americas" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/casas-de-show/espaco-das-americas"><img class="BoxImgElm" src="/bares/fotos2/espaco-das-americas-baressp-1-min.jpg" alt="Espaço das Américas: estrutura completa para receber os melhores shows" title="Espaço das Américas: estrutura completa para receber os melhores shows"></a>
+	  </div><a href="/casas-de-show/espaco-das-americas"><h3 class="colorBlue fontBaseEsp2 fontSize16">Espaço das Américas: estrutura completa para receber os melhores shows</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/shows/casas-de-show">+Casas</a></div></div><div>&nbsp;</div><div class="marginBottom10 txtCenter marginAuto"><a href="https://www.makro.com.br/makro.php?id=Home&utm_source=728x90_baressp&utm_medium=banner_728x90&utm_campaign=728x90_baressp" target="_blank" onclick="BannerClick('https://www.makro.com.br/makro.php?id=Home&utm_source=728x90_baressp&utm_medium=banner_728x90&utm_campaign=728x90_baressp',276,'_blank',78);"><img src="https://www.baressp.com.br/images/banners/superfull_banner_quebra_mitos_cartao_makro.jpg" alt="BaresSP publicidade 980x90 bares" style="cursor:pointer; max-width:100%;" title="BaresSP-especiais"/></a></div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Notícias de Shows</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">03 | DEZ | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fnoticias%2Falok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fnoticias%2Falok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fnoticias%2Falok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fnoticias%2Falok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/noticias/alok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos"><img class="BoxImgElm" src="/barreporter/imgs2/alok-show-para-surdos-baressp-min_031220191320.jpg" alt=" Mariana Lima, intérprete de Libras, traduziu músicas durante o evento" title=" Mariana Lima, intérprete de Libras, traduziu músicas durante o evento"></a>
+	  </div><a href="/noticias/alok-realiza-primeiro-show-eletronico-do-mundo-acessivel-para-surdos"><h3 class="colorBlue fontBaseEsp2 fontSize16"> Mariana Lima, intérprete de Libras, traduziu músicas durante o evento</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">06 | AGO | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fnoticias%2Fa-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fnoticias%2Fa-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fnoticias%2Fa-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fnoticias%2Fa-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/noticias/a-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020"><img class="BoxImgElm" src="/barreporter/imgs2/nene-da-vila-matilde-tema-de-carnaval-baressp-min_060820191354.jpg" alt="Escola de samba leva para a avenida a história e cultura da bebida" title="Escola de samba leva para a avenida a história e cultura da bebida"></a>
+	  </div><a href="/noticias/a-cerveja-vira-enredo-da-nene-da-vila-matilde-para-o-carnaval-2020"><h3 class="colorBlue fontBaseEsp2 fontSize16">Escola de samba leva para a avenida a história e cultura da bebida</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">18 | JUN | 19</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Fnoticias%2Fgoverno-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Fnoticias%2Fgoverno-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Fnoticias%2Fgoverno-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Fnoticias%2Fgoverno-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/noticias/governo-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-"><img class="BoxImgElm" src="/barreporter/imgs2/guiadotorcedorbrasil-min_180620191123.jpg" alt="Publicação digital da Copa reúne informações como turismo e segurança" title="Publicação digital da Copa reúne informações como turismo e segurança"></a>
+	  </div><a href="/noticias/governo-federal-lanca-guia-do-torcedor-da-copa-america-de-futebol-em-tres-idiomas-"><h3 class="colorBlue fontBaseEsp2 fontSize16">Publicação digital da Copa reúne informações como turismo e segurança</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/noticias">+ Notícias</a></div></div><div>&nbsp;</div><h2 class="txtCenter fontBaseEsp2 fontSize25 colorBlue font400 marginBottom10">Cobertura Fotográfica em Shows</h2><div class="Divcontent">&nbsp;</div>
+<ul class="ulClear txtCenter flexRow FlexWrap flexJustifyBetween alignItemTop">
+<li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">26 | AGO | 17</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Ffotos%2F2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Ffotos%2F2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Ffotos%2F2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Ffotos%2F2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/fotos/2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro"><img class="BoxImgElm" src="/fotos/coberturas/22985/22985.jpg" alt="2ª edição do Taste Of São Paulo reuniu restaurantes e chefs no Clube Hípico de Santo Amaro" title="2ª edição do Taste Of São Paulo reuniu restaurantes e chefs no Clube Hípico de Santo Amaro"></a>
+	  </div><a href="/fotos/2a-edicao-do-taste-of-sao-paulo-reuniu-restaurantes-e-chefs-no-clube-hipico-de-santo-amaro"><h3 class="colorBlue fontBaseEsp2 fontSize16">2ª edição do Taste Of São Paulo reuniu restaurantes e chefs no Clube Hípico de Santo Amaro</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">24 | AGO | 17</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Ffotos%2Flancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Ffotos%2Flancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Ffotos%2Flancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Ffotos%2Flancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/fotos/lancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp"><img class="BoxImgElm" src="/fotos/coberturas/22986/22986.jpg" alt="Lançamento da 8º edição do Festival Gastronômico do Guarujá na Abrasel SP" title="Lançamento da 8º edição do Festival Gastronômico do Guarujá na Abrasel SP"></a>
+	  </div><a href="/fotos/lancamento-da-8-edicao-do-festival-gastronomico-do-guaruja-na-abrasel-sp"><h3 class="colorBlue fontBaseEsp2 fontSize16">Lançamento da 8º edição do Festival Gastronômico do Guarujá na Abrasel SP</h3></a>
+      </li><li class="BoxMd">
+	  <div class="BoxMdImg"><div class="BoxFloatDate fontSize25 fontBaseEsp2">29 | JUL | 17</div><div class="shareBoxDestFloat alignItemCenter txtLeft">
+	<a href="https://www.facebook.com/share.php?u=https://www.baressp.com.br%2Ffotos%2Fdegusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017" target="_blank"><i class="fab fa-facebook-square colorWhite fontSize20"></i></a>
+    <a href="https://plus.google.com/share?url=https://www.baressp.com.br%2Ffotos%2Fdegusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017" target="_blank"><i class="fab fa-google-plus-square colorWhite fontSize20"></i></a>
+    <a href="https://twitter.com/share?url=https://www.baressp.com.br%2Ffotos%2Fdegusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017" target="_blank"><i class="fab fa-twitter-square colorWhite fontSize20"></i></a>
+    <a href="https://api.whatsapp.com/send?phone=&text=https://www.baressp.com.br%2Ffotos%2Fdegusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017" target="_blank"><i class="fab fa-whatsapp-square colorWhite fontSize20"></i></a>
+</div><a href="/fotos/degusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017"><img class="BoxImgElm" src="/fotos/coberturas/22943/22943.jpg" alt="Degusta Beer & Food aconteceu no mês de julho no Centro de Exposições São Paulo Expo" title="Degusta Beer & Food aconteceu no mês de julho no Centro de Exposições São Paulo Expo"></a>
+	  </div><a href="/fotos/degusta-beer-e-food-acontece-no-mes-de-julho-no-centro-de-exposicoes-sao-paulo-expo-29072017"><h3 class="colorBlue fontBaseEsp2 fontSize16">Degusta Beer & Food aconteceu no mês de julho no Centro de Exposições São Paulo Expo</h3></a>
+      </li></ul><div class="flexRow FlexNoWrap flexJustifyBetween alignItemCenter fontBaseEsp2 colorBlue"><div class="DivcontentVj">&nbsp;</div><div style="white-space:nowrap;"><a href="/fotos">+ Fotos</a></div></div><div>&nbsp;</div><div class="marginBottom10 txtCenter marginAuto"><a href="Javascript:void(0);" target="_self" onclick="BannerClick('http://www.baressp.com.br/balada-de-reveillon',42,'_self',78);"><img src="https://www.baressp.com.br/images/banners/fullbanner-balada-rev-min.jpg" alt="BaresSP publicidade 980x90 bares" style="cursor:pointer; max-width:100%;" title="BaresSP-especiais"/></a></div><div>&nbsp;</div>
+<ul class="flexRow FlexWrap alignItemTop flexJustifyCenter ulClear fontBaseEsp">
+<li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Agenda-de-Show-em-Sao-Paulo.jpg"  alt="Agenda de Show em São Paulo" title="Agenda de Show em São Paulo" /><h2 class="fontSize14">Agenda de Show em São Paulo</h2></li><li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Programacao-Show-SP.jpg" alt="Programação Show SP" title="Programação Show SP" /><h2 class="fontSize14">Programação Show SP</h2></li><li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Show-Sao-Paulo.jpg" alt="Show em São Paulo" title="Show em São Paulo" /><h2 class="fontSize14">Show em São Paulo</h2></li><li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Proximos-Shows-em-Sao-Paulo.jpg" alt="Próximos Shows em São Paulo" title="Próximos Shows em São Paulo" /><h2 class="fontSize14">Próximos Shows em São Paulo</h2></li><li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Show-Nacional-em-Sao-Paulo.jpg" alt="Show Nacional em São Paulo" title="Show Nacional em São Paulo" /><h2 class="fontSize14">Show Nacional em São Paulo</h2></li><li class="w300 txtCenter padding10px"><img class="lazy" src="/images/shows/Show-Internacional-em-Sao-Paulo.jpg" alt="Show Internacional em São Paulo" title="Show Internacional em São Paulo" /><h2 class="fontSize14">Show Internacional em São Paulo</h2></li></ul>
+</div><!--container fim-->
+</div><!--miolo fim--></div><!--main fim-->
+<footer>
+<ul class="ulClear w1000 marginAuto fontBaseEsp flexRow flexJustifyBetween">
+	<li class="w200"><h4 class="font400 colorBlue">BaresSP</h4>
+        <div class="footerItem"><a href="/institucional/quem-somos">Quem Somos</a></div>
+        <div class="footerItem"><a href="/institucional/politica-de-privacidade">Privacidade</a></div>
+        <div class="footerItem"><a href="/institucional/imprensa">Imprensa</a></div>
+        <div class="footerItem"><a href="/institucional/fale-com-o-baressp">Fale Conosco</a></div>
+        <div class="footerItem"><a href="/cadastro">Cadastre-se</a></div>
+        <div class="footerItem"><a href="/institucional/trabalhe-no-baressp">Trabalhe Conosco</a></div>
+    </li>
+    <li class="w200"><h4 class="font400 colorBlue">Cursos BaresSP</h4>
+   <div class="footerItem"><a href="https://www.baressp.com.br/curso-bartender-curso-barman" target="_blank">Curso Bartender</a></div>
+  <div class="footerItem"><a href="https://www.baressp.com.br/curso-barista-curso-cafe" target="_blank">Curso Barista</a></div>
+  <div class="footerItem"><a href="https://www.baressp.com.br/curso-cerveja" target="_blank">Curso Cerveja</a></div>
+  <div class="footerItem"><a href="https://www.baressp.com.br/curso-garcom" target="_blank">Curso Garçom</a></div>
+  <div class="footerItem"><a href="https://www.baressp.com.br/cursos/curso-de-gestao-para-bares-e-restaurantes-basico" target="_blank">Curso Gestão</a></div>
+    </li>
+    <li class="w200"><h4 class="font400 colorBlue">Nossos Projetos</h4>
+    <div class="flexftmob">
+   <div class="footerItem"><a href="http://www.br3.com.br/bar-nas-alturas" target="_blank">Bar nas Alturas</a></div>
+   <div class="footerItem"><a href="http://www.br3.com.br/caminhao-de-eventos" target="_blank">Caminhão</a></div>
+   <div class="footerItem"><a href="http://www.br3.com.br/ativacao-em-bares-e-restaurantes" target="_blank">Ativação em Bares</a></div>
+   <div class="footerItem"><a href="http://www.br3.com.br/site-para-bares-e-restaurantes" target="_blank">Site para Bares</a></div>
+   <div class="footerItem"><a href="http://www.br3.com.br/familia-no-parque"  target="_blank">Família no Parque</a></div>
+   </div>
+    </li>
+    <li><h4 class="font400 colorBlue">Acompanhe o BaresSP</h4>
+    <div><a href="https://www.facebook.com/pages/Guia-BaresSP/110252532339103" target="_blank"><i class="fab fa-facebook-square colorBlue fontSize42"></i></a>
+    <a href="https://plus.google.com/115683532952199815100/posts" target="_blank"><i class="fab fa-google-plus-square colorRed fontSize42"></i></a>
+    <a href="https://twitter.com/BaresSP" target="_blank"><i class="fab fa-twitter-square colorLtBlue fontSize42"></i></a></div>
+    </li>
+</ul><div class="divisorFooter">&nbsp;</div>
+<div class="txtCenter padding10px">
+<a href="http://www.br3.com.br" target="_blank"><img class="lazy" src="/site_novo19/images/logos/br3.png" alt="Br3 Comunicação" title="Br3 Comunicação" /></a><a href="http://www.esbre.com.br" target="_blank"><img class="lazy" src="/site_novo19/images/logos/esbre.png" alt="ESBRE" title="ESBRE" /></a><a href="https://www.abraselsp.com.br" target="_blank"><img class="lazy" src="/site_novo19/images/logos/abrasel.png" alt="Abrasel" title="Abrasel" /></a><a href="http://www.casadosbareserestaurantes.com.br/" target="_blank"><img class="lazy" src="/site_novo19/images/logos/cbr.png" alt="Casa do Bares e Restaurantes" title="Casa do Bares e Restaurantes" /></a><a href="https://app.mystaffapp.com.br/appmystaff" target="_blank"><img class="lazy" src="/site_novo19/images/logos/mystaff.png" alt="MyStaff" title="MyStaff" /></a><a href="http://www.familianoparque.com.br" target="_blank"><img class="lazy" src="/site_novo19/images/logos/familia-no-parque.png" alt="Família no Parque" title="Família no Parque" /></a>
+</div>
+</footer>
+<script src="/site_novo19/fontawesome/js/all.min.js"></script>
+<div class="RetornarTopo txtCenter fontBaseEsp" onclick="$('html,body').animate({scrollTop:0},2000);"><i class="fas fa-chevron-circle-up fontSize20"></i><br />topo</div>
+<script>$(window).scroll(function(){var vltp = $(window).scrollTop();if(vltp > 500){$('.RetornarTopo').fadeIn();}else{$('.RetornarTopo').fadeOut();}});</script>
+<div class="sharethis-sticky-share-buttons"></div>
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5953b89d22c0b700127e3dbb&product=inline-share-buttons' async='async'></script>
+<div style="height:1px;overflow:hidden;margin-top:-1px;"><iframe name="consulta" id="consulta" src="about:blank" width="0" height="0" frameborder="0" scrolling="auto"></iframe></div>
+<!--script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script-->
+<script>/* (adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-1771225729077199", enable_page_level_ads: true});*/</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PR8W6N" height="0" width="0" style="display:none;visibility:hidden" title="tagmanager"></iframe></noscript>
+<script type="text/javascript" src="/site_novo19/lazy/jquery.lazy.min.js"></script><script>$(function(){$('.lazy').Lazy();});</script>
+</body></html>

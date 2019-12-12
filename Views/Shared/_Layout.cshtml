@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model ROLE_TOP.ViewModels.BaseViewModel
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -9,10 +10,56 @@
     <link rel="stylesheet" type="text/css" href="~/css/style.css">
     <script src="https://kit.fontawesome.com/349a64cb04.js"></script>
 
+    @if(!"Home".Equals(@Model.NomeView))
+    {
+        <link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <link href="~/css/alugar.css" rel="stylesheet" type="text/css">
+        <link href="~/css/login.css" rel="stylesheet" type="text/css">
+        <link href="~/css/adm.css" rel="stylesheet" type="text/css">
+         <link href="~/css/default.css" rel="stylesheet" type="text/css">
+         
+    }
+     @if("Reserva".Equals(@Model.NomeView))
+    {
+        <link href="~/css/alugar.css" rel="stylesheet" type="text/css">
+         <link href="~/css/default.css" rel="stylesheet" type="text/css">
+        
+    }
+      @if("Cadastro".Equals(@Model.NomeView))
+    {
+        <link href="~/css/cadastro.css" rel="stylesheet" type="text/css">
+        <link href="~/css/default.css" rel="stylesheet" type="text/css">
+        
+    }
+      @if("Login".Equals(@Model.NomeView))
+    {
+        <link href="~/css/login.css" rel="stylesheet" type="text/css">
+         <link href="~/css/default.css" rel="stylesheet" type="text/css">
+        
+    }
+     @if("Administrador".Equals(@Model.NomeView))
+    {
+        <link href="~/css/adm.css" rel="stylesheet" type="text/css">
+         <link href="~/css/default.css" rel="stylesheet" type="text/css">
+        
+    }
+    @if("Historico".Equals(@Model.NomeView))
+    {
+        
+        <link href="~/css/historico.css" rel="stylesheet" type="text/css">
+    }
+    
+    
+
+
+
+    
+   
+
 </head>
 
 <body>
-    <header>
+   
 
         <nav>
             <div class="section-container">
@@ -20,26 +67,36 @@
                 <ul>
                         
                               
+            
                                 
-                                    
+                                     
                                 
                      <li><a asp-controller="Home" asp-action="Index" class="active">home</a></li>
-                    <li ><a href='@Url.Action("Index", "Home")#galeria' class="active">galeria</a></li>
-                    <li><a href='@Url.Action("Index", "Home")#contatos' class="active">contatos</a></li>
-                    <li><a href="login.html" class="active">login</a></li>
-                    <li ><a asp-controller="Cadastro" asp-action="Index" class="active">cadastro</a></li>
-                    <li><a id="bt-peca_ja" href="alugar.html " class="active">Alugue!</a></li>
+                    <li ><a href='@Url.Action("Index", "Home")#galeria' >galeria</a></li>
+                    <li><a  href='@Url.Action("Index", "Home")#contatos' >contatos</a></li>
+                    
+                    
+                 @if(string.IsNullOrEmpty(@Model.UsuarioEmail))
+                    {
+                    <li ><a  asp-controller="Cliente" asp-action="Login">Login/Cadastro</a></li>
+                    }
+                    else
+                    {
+                        <li ><a  asp-controller="Cliente" asp-action="Logoff">Logoff</a></li>
+                        <li ><a  asp-controller="Cliente" asp-action="Historico">Reservas</a></li>
+                    }
+                    <li><a asp-controller="Reserva" asp-action="Index">Alugue!</a></li>
+                   
                 </ul>
-
             </div>
+        
+
+            
         </nav>
-        </div>
-        @RenderBody()
-          <section id="local">
-                <div class="section-container">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.8869961505543!2d-46.648477085071065!3d-23.53656648469522!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5843deade6e3%3A0x124f377d06c7e71f!2sAlameda+Bar%C3%A3o+de+Limeira%2C+539+-+Campos+El%C3%ADseos%2C+S%C3%A3o+Paulo+-+SP%2C+01202-001!5e0!3m2!1sen!2sbr!4v1550223658410" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-                </div>
-            </section>
+         
+        
+    @RenderBody()
+          
             <footer>
                 <section id="contatos">
                 <div class="section-container">

@@ -1,6 +1,6 @@
 namespace ROLE_TOP.Enums
 {
-    public enum StatusAlugar : uint
+    public enum StatusReserva : uint
     {
         PENDENTE = 0,
 

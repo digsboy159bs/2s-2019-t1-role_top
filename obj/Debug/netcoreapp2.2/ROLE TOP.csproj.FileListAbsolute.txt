@@ -16,7 +16,6 @@ C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\ROLE 
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\ROLE TOP.RazorCoreGenerate.cache
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
@@ -30,3 +29,8 @@ C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\ROLE 
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\ROLE TOP.csproj.CopyComplete
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Cadastro\Index.g.cshtml.cs
 C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Login.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Erro.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Sucesso.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Cliente\Historico.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Reserva\Index.g.cshtml.cs
+C:\Users\34436810852\Documents\exercicios\ROLE TOP\obj\Debug\netcoreapp2.2\Razor\Views\Administrador\Dashboard.g.cshtml.cs

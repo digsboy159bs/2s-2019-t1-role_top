@@ -3,29 +3,29 @@ using ROLE_TOP.Enums;
 
 namespace ROLE_TOP.Models
 {
-    public class Alugar
+    public class Reserva
     {
        
         public ulong Id {get;set;}
         public Cliente Cliente {get;set;}
 
-        public Lugar Lugar {get;set;}
+        public Evento Evento {get;set;}
 
         
 
-        public DateTime DataDoAlugar {get;set;}
+        public DateTime DataDaReserva {get;set;}
 
         public double PrecoTotal {get;set;}
 
         public uint Status {get;set;}
 
-        public Alugar()
+        public Reserva()
         {
             this.Cliente = new Cliente();
-            this.Lugar = new Lugar();
+            this.Evento = new Evento();
             
             this.Id = 0;
-            this.Status = (uint) StatusAlugar.PENDENTE; 
+            this.Status = (uint) StatusReserva.PENDENTE; 
         }
     }
 }

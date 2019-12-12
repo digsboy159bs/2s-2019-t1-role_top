@@ -4,7 +4,7 @@ using ROLE_TOP.Models;
 
 namespace ROLE_TOP.Repositories
 {
-    public class ClienteRepository : ReposiroryBase
+    public class ClienteRepository : RepositoryBase
     {
          private const string PATH = "Database/Cliente.csv";
 
@@ -34,12 +34,12 @@ namespace ROLE_TOP.Repositories
 
                 Cliente c = new Cliente();
                 c.Nome = ExtrairValorDoCampo("nome", item);
-                c.TipoUsuario = uint.Parse(ExtrairValorDoCampo("tipo_usuario", item));
+                c.Cpf = ExtrairValorDoCampo("cpf", item);
                 c.Email = ExtrairValorDoCampo("email", item);
-                c.DataNascimento = DateTime.Parse(ExtrairValorDoCampo("data_nascimento", item)); 
-                c.Endereco = ExtrairValorDoCampo("endereco", item);
                 c.Telefone = ExtrairValorDoCampo("telefone", item);
                 c.Senha = ExtrairValorDoCampo("senha", item);
+                c.DataNascimento = DateTime.Parse(ExtrairValorDoCampo("data_nascimento", item)); 
+                c.TipoUsuario = uint.Parse(ExtrairValorDoCampo("tipo_usuario", item));
 
                 return c;
             }
@@ -51,7 +51,7 @@ namespace ROLE_TOP.Repositories
       
         private string PrepararRegistroCSV(Cliente cliente)
         {
-            return $"tipo_usuario={cliente.TipoUsuario};nome={cliente.Nome};email={cliente.Email};senha={cliente.Senha};endereco={cliente.Endereco};telefone={cliente.Telefone};data_nascimento={cliente.DataNascimento}";
+            return $"tipo_usuario={cliente.TipoUsuario};nome={cliente.Nome};email={cliente.Email};senha={cliente.Senha};cpf={cliente.Cpf};telefone={cliente.Telefone};data_nascimento={cliente.DataNascimento}";
             
         }
     }

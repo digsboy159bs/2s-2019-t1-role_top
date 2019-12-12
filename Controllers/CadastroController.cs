@@ -14,22 +14,22 @@ namespace ROLE_TOP.Controllers
     ClienteRepository clienteRepository = new ClienteRepository();
         public IActionResult Index()
         {
-
-            return View(new BaseViewModel()
+             return View(new BaseViewModel()
             {
                 NomeView = "Cadastro",
                 UsuarioEmail = ObterUsuarioSession(),
                 UsuarioNome = ObterUsuarioNomeSession() 
             });
-        }
 
-        public IActionResult CadastrarCliente(IFormCollection form)
+           
+        }
+          public IActionResult Cadastrar(IFormCollection form)
         {
             Cliente cliente = new Cliente();
             ViewData["Action"] = "Cadastro";
             try
             {
-                cliente = new Cliente(form["nome"],form["endereco"],form["telefone"],form["senha"],form["email"],DateTime.Parse(form["data-nascimento"]));
+                cliente = new Cliente(form["nome"],form["cpf"],form["telefone"],form["senha"],form["email"],DateTime.Parse(form["data-nascimento"]));
                 cliente.TipoUsuario = (uint) TiposUsuario.CLIENTE;
 
                 clienteRepository.Inserir(cliente);
@@ -41,7 +41,7 @@ namespace ROLE_TOP.Controllers
                 });
                 
             }
-            catch(Exception e)
+             catch(Exception e)
             {
                 System.Console.WriteLine(e.StackTrace);
                 return View("Erro", new RespostaViewModel()
@@ -50,7 +50,7 @@ namespace ROLE_TOP.Controllers
                     Mensagem = $"{cliente.Nome} seu cadastro foi concluído!"
                 });
             }
-           
-        }
+        
     }
+}
 }

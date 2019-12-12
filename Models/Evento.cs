@@ -1,13 +1,13 @@
 namespace ROLE_TOP.Models
 {
-    public class Lugar : Produto
+    public class Evento : Produto
     {
-         public Lugar()
+         public Evento()
         {
 
         }
 
-        public Lugar(string nome, double preco)
+        public Evento(string nome, double preco)
         {
             this.Nome= nome;
             this.Preco = preco;

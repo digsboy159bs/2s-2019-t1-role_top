@@ -1,21 +1,35 @@
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<h2>login</h2>
+            
+            <img src="../img/show2.png" height="200px" width="200px" >
    <main>
            
                 <br>
                 <br>
-                <form method="POST" action='@Url.Action("Login", "Cliente")'>
+                <form method="POST"action='@Url.Action("Login", "Cliente")'>
                    
                    
         
                     <div>
                         <label for="email">E-mail</label>
                         <br />
-                        <input id="email" type="email" />
+                        <input id="email" type="email" name="email" />
                     </div>
                     <div>
                         <label for="nome">senha</label>
                         <br />
-                        <input id="nome" type="password" maxlength="50" minlength="3" name="nome" />
+                        <input id="nome" type="password" maxlength="50" minlength="3" name="senha" />
                     </div>
                     <input type="submit" value="entrar"   />
+                     <div id = "link-cadastro">
+                <a href ='@Url.Action("Index","Cadastro")'>Quero me cadastrar!</a>
+            </div>
         </form>
         </main>
